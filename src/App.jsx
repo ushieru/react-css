@@ -19,6 +19,6 @@ export const App = () => {
       borderColor: isButtonHover ? '#646cff' : 'transparent',
     }}
   >
-    css example
+    style prop example
   </button >
 }
